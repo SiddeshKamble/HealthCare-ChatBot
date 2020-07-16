@@ -17,6 +17,3 @@ Healthcare is essential in daily life. Unfortunately, consultation with a doctor
 ![](Healthcare%20Chatbot%20Register.png)
 
 
-**Chat Page**
-
-![](Healthcare%20Chatbot%20Chat.png)
